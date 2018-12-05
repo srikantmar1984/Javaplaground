@@ -1,7 +1,7 @@
 import java.sql.*;
 import java.util.*;
 
-class MysqlCon{
+class mysqlcon{
 	public static void main(String args[]){
 	try{
 		Class.forName("com.Mysql.JdbcDriver");
